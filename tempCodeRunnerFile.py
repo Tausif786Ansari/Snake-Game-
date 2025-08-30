@@ -1,0 +1,2 @@
+snake = Snake()
+# food = Food()
